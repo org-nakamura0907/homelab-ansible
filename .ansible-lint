@@ -1,4 +1,3 @@
 exclude_paths:
   - .cache/
   - .github/
-  - roles/k3s-ansible/
